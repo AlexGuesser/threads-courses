@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Formação Threads Java.iml" filepath="$PROJECT_DIR$/Formação Threads Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/banheiro/banheiro.iml" filepath="$PROJECT_DIR$/banheiro/banheiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/busca-textual/busca-textual.iml" filepath="$PROJECT_DIR$/busca-textual/busca-textual.iml" />
+      <module fileurl="file://$PROJECT_DIR$/experimento/experimento.iml" filepath="$PROJECT_DIR$/experimento/experimento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listas/listas.iml" filepath="$PROJECT_DIR$/listas/listas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servidor-tarefas/servidor-tarefas.iml" filepath="$PROJECT_DIR$/servidor-tarefas/servidor-tarefas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threads/threads.iml" filepath="$PROJECT_DIR$/threads/threads.iml" />
+    </modules>
+  </component>
+</project>
